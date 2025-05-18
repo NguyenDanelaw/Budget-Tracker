@@ -1,6 +1,6 @@
 # 💰 Budget Tracker 💸
 
-A simple yet powerful console application to **track your money like a pro**! Built with ❤️ in C#, this tool helps you stay on top of your finances with Vietnamese Dong (₫) support.
+A simple yet powerful console application to **track your money like a pro**! Built with ❤️ in C#, this tool helps you stay on top of your finances.
 
 ## ✨ Features
 
