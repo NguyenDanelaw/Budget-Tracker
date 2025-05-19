@@ -56,4 +56,4 @@ A simple guide to managing your finances with this C# console application.
 ## 🚪 **4. Exiting the App**  
 
 ▶ Select **`4`** to safely exit.  
-*(Note: Transactions are stored in memory and will reset when you close the app. We are working to let it save in a .txt file.)*
+*(Note: Transactions are stored in memory and will reset when you close the app. We are working to let it save in a `.txt` or `.json` file.)*
